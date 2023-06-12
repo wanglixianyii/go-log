@@ -12,3 +12,5 @@ go get -u github.com/natefinch/lumberjack
 2. 日志切割-能够根据文件大小来切割日志文件;
 3. 支持不同的日志级别。例如INFO，DEBUG，ERROR等;
 4. 能够打印基本信息，如调用文件/函数名和行号，日志时间等;
+
+以上就是本文所有内容了
